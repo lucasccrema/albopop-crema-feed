@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>AlboPop Crema – Albo Pretorio in parole semplici</title>
     <link>https://www.facebook.com/albopopcrema</link>
@@ -13,6 +13,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8503683</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8503683</guid>
       <pubDate>Thu, 12 Nov 2026 21:11:40 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>via Venti Settembre</category>
@@ -29,6 +30,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8502756</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8502756</guid>
       <pubDate>Thu, 12 Nov 2026 21:10:33 +0100</pubDate>
+      <dc:creator>Ufficio Segreteria</dc:creator>
       <category>Interrogazioni</category>
       <category>Ufficio Segreteria</category>
       <category>ponte via Cadorna</category>
@@ -45,6 +47,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501709</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501709</guid>
       <pubDate>Thu, 12 Nov 2026 21:09:23 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Sociali)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Sociali</category>
       <category>accoglienza neomaggiorenni</category>
@@ -61,6 +64,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498948</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498948</guid>
       <pubDate>Thu, 12 Nov 2026 21:08:15 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>cantiere via Frecavalli</category>
@@ -77,6 +81,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498943</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498943</guid>
       <pubDate>Thu, 12 Nov 2026 21:07:06 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>chiusura pista ciclabile</category>
@@ -93,6 +98,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496725</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496725</guid>
       <pubDate>Thu, 12 Nov 2026 21:06:00 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Sociali)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Sociali</category>
       <category>contributo</category>
@@ -110,6 +116,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8503688</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8503688</guid>
       <pubDate>Thu, 12 Nov 2026 19:52:14 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Manutenzioni e Gestione Patrimonio)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Manutenzioni e Gestione Patrimonio</category>
       <category>manutenzione verde pubblico</category>
@@ -126,6 +133,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8503684</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8503684</guid>
       <pubDate>Thu, 12 Nov 2026 19:51:08 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Manutenzioni e Gestione Patrimonio)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Manutenzioni e Gestione Patrimonio</category>
       <category>asfalto a freddo</category>
@@ -142,6 +150,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8503680</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8503680</guid>
       <pubDate>Thu, 12 Nov 2026 19:49:57 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Ufficio Viabilità)</dc:creator>
       <category>Determinazione</category>
       <category>Ufficio Viabilità</category>
       <category>occupazione suolo pubblico</category>
@@ -157,6 +166,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8502758</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8502758</guid>
       <pubDate>Thu, 12 Nov 2026 19:48:51 +0100</pubDate>
+      <dc:creator>Ufficio Segreteria</dc:creator>
       <category>Interrogazioni</category>
       <category>Ufficio Segreteria</category>
       <description>&lt;p&gt;📄 Interrogazioni 2026/2992 – Ufficio Segreteria&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8502758"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8502758&lt;/a&gt;&lt;br&gt;In pubblicazione dal 12/11/2026 al 27/11/2026&lt;br&gt;Titolo ufficiale: INTERROGAZIONE N.181: "VIA BRAMANTE - STATO DI MANUTENZIONE E CONDIZIONI DI SICUREZZA" PRESENTATA DAI CONSIGLIERI ANDREA BERGAMASCHINI E SILVIA GUATTERINI DEL GRUPPO CONSILIARE LEGA LOMBARDA SALVINI-CREMA&lt;/p&gt;</description>
@@ -166,6 +176,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501871</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501871</guid>
       <pubDate>Thu, 12 Nov 2026 19:43:18 +0100</pubDate>
+      <dc:creator>Ufficio Segreteria</dc:creator>
       <category>Atti di altri enti</category>
       <category>Ufficio Segreteria</category>
       <category>riserva naturale Palata Menasciutto</category>
@@ -182,6 +193,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501723</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501723</guid>
       <pubDate>Thu, 12 Nov 2026 19:42:11 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Manutenzioni e Gestione Patrimonio)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Manutenzioni e Gestione Patrimonio</category>
       <category>campo da calcio Pierina</category>
@@ -198,6 +210,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501720</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501720</guid>
       <pubDate>Thu, 12 Nov 2026 19:40:59 +0100</pubDate>
+      <dc:creator>Stefania Cervieri (Servizio Legale Contratti Appalti)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Legale Contratti Appalti</category>
       <category>ponte sul fiume Serio</category>
@@ -214,6 +227,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501717</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501717</guid>
       <pubDate>Thu, 12 Nov 2026 19:39:52 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Pianificazione Territoriale Ambientale)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Pianificazione Territoriale Ambientale</category>
       <category>rumore stradale</category>
@@ -230,6 +244,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501713</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501713</guid>
       <pubDate>Thu, 12 Nov 2026 19:38:46 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Pianificazione Territoriale Ambientale)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Pianificazione Territoriale Ambientale</category>
       <category>trasporto pubblico</category>
@@ -246,6 +261,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501706</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501706</guid>
       <pubDate>Thu, 12 Nov 2026 19:37:34 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Educativi Ricreativi e Sportivi)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Educativi Ricreativi e Sportivi</category>
       <category>tirocinio</category>
@@ -262,6 +278,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501703</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501703</guid>
       <pubDate>Thu, 12 Nov 2026 19:36:29 +0100</pubDate>
+      <dc:creator>Stefania Cervieri (Servizio Legale Contratti Appalti)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Legale Contratti Appalti</category>
       <category>prevenzione incendi</category>
@@ -278,6 +295,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501063</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501063</guid>
       <pubDate>Wed, 11 Nov 2026 17:49:53 +0100</pubDate>
+      <dc:creator>Ufficio Segreteria</dc:creator>
       <category>Cambi nome</category>
       <category>Ufficio Segreteria</category>
       <description>&lt;p&gt;📄 Cambi nome 2026/2979 – Ufficio Segreteria&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501063"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501063&lt;/a&gt;&lt;br&gt;In pubblicazione dal 11/11/2026 al 11/12/2026&lt;br&gt;Titolo ufficiale: AVVISO CAMBIO COGNOME EL*** YU***&lt;/p&gt;</description>
@@ -287,6 +305,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501062</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501062</guid>
       <pubDate>Wed, 11 Nov 2026 17:48:47 +0100</pubDate>
+      <dc:creator>Ufficio Segreteria</dc:creator>
       <category>Cambi nome</category>
       <category>Ufficio Segreteria</category>
       <description>&lt;p&gt;📄 Cambi nome 2026/2980 – Ufficio Segreteria&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501062"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501062&lt;/a&gt;&lt;br&gt;In pubblicazione dal 11/11/2026 al 11/12/2026&lt;br&gt;Titolo ufficiale: AVVISO CAMBIO COGNOME EL*** FA**&lt;/p&gt;</description>
@@ -296,6 +315,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501061</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8501061</guid>
       <pubDate>Wed, 11 Nov 2026 17:47:44 +0100</pubDate>
+      <dc:creator>Polizia Locale</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Polizia Locale</category>
       <category>divieto di sosta</category>
@@ -312,6 +332,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8499591</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8499591</guid>
       <pubDate>Wed, 11 Nov 2026 11:54:31 +0100</pubDate>
+      <dc:creator>Fabio Calderara (Servizio Tributi Commercio Catasto Servizi alle Imprese)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Tributi Commercio Catasto Servizi alle Imprese</category>
       <category>ristori</category>
@@ -328,6 +349,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498954</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498954</guid>
       <pubDate>Wed, 11 Nov 2026 11:53:24 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>divieto di sosta</category>
@@ -344,6 +366,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498953</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498953</guid>
       <pubDate>Wed, 11 Nov 2026 11:52:18 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>via Ugo Palmieri</category>
@@ -360,6 +383,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498952</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498952</guid>
       <pubDate>Wed, 11 Nov 2026 11:51:10 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>chiusura strada</category>
@@ -377,6 +401,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498951</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498951</guid>
       <pubDate>Wed, 11 Nov 2026 11:50:03 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>divieto di sosta</category>
@@ -394,6 +419,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498950</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498950</guid>
       <pubDate>Wed, 11 Nov 2026 11:48:56 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>via Cresmiero</category>
@@ -411,6 +437,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498949</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498949</guid>
       <pubDate>Wed, 11 Nov 2026 11:47:49 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>ciclabile chiusa</category>
@@ -427,6 +454,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498947</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498947</guid>
       <pubDate>Wed, 11 Nov 2026 09:53:22 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>divieto di circolazione</category>
@@ -444,6 +472,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498946</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498946</guid>
       <pubDate>Wed, 11 Nov 2026 09:52:15 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>chiusura strada</category>
@@ -461,6 +490,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498945</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498945</guid>
       <pubDate>Wed, 11 Nov 2026 09:51:08 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>divieto di sosta</category>
@@ -478,6 +508,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498944</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498944</guid>
       <pubDate>Wed, 11 Nov 2026 09:50:02 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>senso unico alternato</category>
@@ -494,6 +525,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498942</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498942</guid>
       <pubDate>Wed, 11 Nov 2026 09:48:51 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>chiusura strada Crema</category>
@@ -510,6 +542,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498940</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498940</guid>
       <pubDate>Wed, 11 Nov 2026 09:47:44 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <category>divieto di sosta</category>
@@ -527,6 +560,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497946</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497946</guid>
       <pubDate>Wed, 11 Nov 2026 01:51:13 +0100</pubDate>
+      <dc:creator>Fabio Calderara (Ufficio Economato)</dc:creator>
       <category>Determinazione</category>
       <category>Ufficio Economato</category>
       <category>pannolini</category>
@@ -544,6 +578,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497644</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497644</guid>
       <pubDate>Wed, 11 Nov 2026 01:50:06 +0100</pubDate>
+      <dc:creator>Servizi Culturali</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Culturali</category>
       <category>sala comunale gratuita</category>
@@ -560,6 +595,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497641</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497641</guid>
       <pubDate>Wed, 11 Nov 2026 01:48:58 +0100</pubDate>
+      <dc:creator>Ufficio Patrimonio Immobiliare</dc:creator>
       <category>Delibera di giunta</category>
       <category>Ufficio Patrimonio Immobiliare</category>
       <category>consultorio familiare</category>
@@ -576,6 +612,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497638</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497638</guid>
       <pubDate>Wed, 11 Nov 2026 01:47:50 +0100</pubDate>
+      <dc:creator>Servizi Culturali</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Culturali</category>
       <category>mattoncini</category>
@@ -592,6 +629,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497635</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497635</guid>
       <pubDate>Tue, 10 Nov 2026 15:52:01 +0100</pubDate>
+      <dc:creator>Servizi Culturali</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Culturali</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2958 – Servizi Culturali&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497635"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497635&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: UTILIZZO A TITOLO GRATUITO DI SALA PIETRO DA CEMMO DEL CENTRO CULTURALE SANT’AGOSTINO PER LA REALIZZAZIONE DI INCONTRO DIVULGATIVO A CURA DEL CLUB ALPINO ITALIANO SEZIONE DI CREMA A.P.S.-E.T.S. PREVISTO NELLA SERATA DI SABATO 28 NOVEMBRE 2026&lt;/p&gt;</description>
@@ -601,6 +639,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497632</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497632</guid>
       <pubDate>Tue, 10 Nov 2026 15:50:56 +0100</pubDate>
+      <dc:creator>Servizi Educativi Ricreativi e Sportivi</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Educativi Ricreativi e Sportivi</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2957 – Servizi Educativi Ricreativi e Sportivi&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497632"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497632&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE PATROCINIO NON ONEROSO E UTILIZZO DI UNA GRATUITÀ DI UNA SALA DEL MULTISALA PORTANOVA DI CREMA AI SENSI DELLA CONVENZIONE VIGENTE COL COMUNE DI CREMA PER LA REALIZZAZIONE DI UN EVENTO NATALIZIO DELLA FONDAZIONE CARLO MANZIANA IL 14 DICEMBRE 2026&lt;/p&gt;</description>
@@ -610,6 +649,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497629</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497629</guid>
       <pubDate>Tue, 10 Nov 2026 15:49:50 +0100</pubDate>
+      <dc:creator>Ufficio Patrimonio Immobiliare</dc:creator>
       <category>Delibera di giunta</category>
       <category>Ufficio Patrimonio Immobiliare</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2956 – Ufficio Patrimonio Immobiliare&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497629"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497629&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE CONTRATTO DI COMODATO PER L’UTILIZZO IN CONDIVISIONE DI IMMOBILE SITO IN CREMA, PIAZZA GARIBALDI N. 40 DI PROPRIETA’ DELL’AMMINISTRAZIONE COMUNALE DI CREMA.&lt;/p&gt;</description>
@@ -619,6 +659,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497626</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497626</guid>
       <pubDate>Tue, 10 Nov 2026 15:48:45 +0100</pubDate>
+      <dc:creator>Servizi Culturali</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Culturali</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2955 – Servizi Culturali&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497626"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497626&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE PATROCINIO E USO GRATUITO SALA COSTI PER CONCERTO 15 NOVEMBRE 2026 ASSOCIAZIONE LA FUNE DELLO ZUCCHERO.&lt;/p&gt;</description>
@@ -628,6 +669,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497623</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497623</guid>
       <pubDate>Tue, 10 Nov 2026 15:47:42 +0100</pubDate>
+      <dc:creator>Servizio Tributi Commercio Catasto Servizi alle Imprese</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizio Tributi Commercio Catasto Servizi alle Imprese</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2954 – Servizio Tributi Commercio Catasto Servizi alle Imprese&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497623"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497623&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: CALENDARIO SAGRE E FIERE 2027 DELLA CITTÀ DI CREMA&lt;/p&gt;</description>
@@ -637,6 +679,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497620</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497620</guid>
       <pubDate>Tue, 10 Nov 2026 13:55:24 +0100</pubDate>
+      <dc:creator>Servizi Educativi Ricreativi e Sportivi</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Educativi Ricreativi e Sportivi</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2953 – Servizi Educativi Ricreativi e Sportivi&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497620"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497620&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: STAGIONE SPORTIVA 2026/27 – CONVENZIONE CON ASD OVER LIMITS PER L’UTILIZZO DEGLI IMPIANTI SPORTIVI “A. DONATI DE CONTI”, “R. OLMI”, “ABBADO”, “LICEO SCIENTIFICO”, “ITIS PIANO TERRA”, “BORGO SAN PIETRO” E “SAN BERNARDINO”&lt;/p&gt;</description>
@@ -646,6 +689,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497617</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497617</guid>
       <pubDate>Tue, 10 Nov 2026 13:54:19 +0100</pubDate>
+      <dc:creator>Servizio Personale e Organizzazione</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizio Personale e Organizzazione</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2952 – Servizio Personale e Organizzazione&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497617"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497617&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: ADESIONE ALLA CONVENZIONE DELL’UNIVERSITA’ DEGLI STUDI DI PAVIA PER LA REALIZZAZIONE DI TIROCINI CURRICULARI PRESSO IL COMUNE DI CREMA&lt;/p&gt;</description>
@@ -655,6 +699,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497614</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497614</guid>
       <pubDate>Tue, 10 Nov 2026 13:53:14 +0100</pubDate>
+      <dc:creator>Polizia Locale</dc:creator>
       <category>Delibera di giunta</category>
       <category>Polizia Locale</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2951 – Polizia Locale&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497614"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497614&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: ADESIONE ALL'ACCORDO DI COLLABORAZIONE CON LA REGIONE LOMBARDIA PER LA REALIZZAZIONE, NEL MESE DI NOVEMBRE 2026, DI INTERVENTI INTEGRATI DI SICUREZZA URBANA DENOMINATI "OPERAZIONI SMART 2026"&lt;/p&gt;</description>
@@ -664,6 +709,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497611</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497611</guid>
       <pubDate>Tue, 10 Nov 2026 13:52:08 +0100</pubDate>
+      <dc:creator>Ufficio Segreteria</dc:creator>
       <category>Delibera di giunta</category>
       <category>Ufficio Segreteria</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2950 – Ufficio Segreteria&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497611"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497611&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: COSTITUZIONE DELEGAZIONE DI PARTE DATORIALE PER LA CONTRATTAZIONE COLLETTIVA INTEGRATIVA DEI DIPENDENTI NON DIRIGENTI.&lt;/p&gt;</description>
@@ -673,6 +719,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497237</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497237</guid>
       <pubDate>Tue, 10 Nov 2026 13:51:03 +0100</pubDate>
+      <dc:creator>Ufficio Segreteria</dc:creator>
       <category>Atti di altri enti</category>
       <category>Ufficio Segreteria</category>
       <description>&lt;p&gt;📄 Atti di altri enti 2026/2949 – Ufficio Segreteria&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497237"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497237&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 01/12/2026&lt;br&gt;Titolo ufficiale: CONSORZIO ROGGIA SENNA E TAGLIO - CONVOCAZIONE ADUNANZA ORDINARIA E STRAORDINARIA DEGLI UTENTI&lt;/p&gt;</description>
@@ -682,6 +729,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497234</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497234</guid>
       <pubDate>Tue, 10 Nov 2026 13:49:59 +0100</pubDate>
+      <dc:creator>Stefania Cervieri (Servizio Personale e Organizzazione)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Personale e Organizzazione</category>
       <category>progressione di carriera</category>
@@ -698,6 +746,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497231</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8497231</guid>
       <pubDate>Tue, 10 Nov 2026 13:48:53 +0100</pubDate>
+      <dc:creator>Stefania Cervieri (Servizio Personale e Organizzazione)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Personale e Organizzazione</category>
       <category>selezione interna</category>
@@ -714,6 +763,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496745</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496745</guid>
       <pubDate>Tue, 10 Nov 2026 13:47:47 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Educativi Ricreativi e Sportivi)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Educativi Ricreativi e Sportivi</category>
       <category>palazzetto Donati De Conti</category>
@@ -730,6 +780,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496742</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496742</guid>
       <pubDate>Tue, 10 Nov 2026 11:56:07 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Ufficio di Piano)</dc:creator>
       <category>Determinazione</category>
       <category>Ufficio di Piano</category>
       <category>disagio minorile</category>
@@ -746,6 +797,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496739</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496739</guid>
       <pubDate>Tue, 10 Nov 2026 11:55:01 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Educativi Ricreativi e Sportivi)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Educativi Ricreativi e Sportivi</category>
       <category>palestra Serio</category>
@@ -762,6 +814,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496736</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496736</guid>
       <pubDate>Tue, 10 Nov 2026 11:53:56 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Educativi Ricreativi e Sportivi)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Educativi Ricreativi e Sportivi</category>
       <category>palazzetto Bertoni</category>
@@ -778,6 +831,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496733</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496733</guid>
       <pubDate>Tue, 10 Nov 2026 11:52:48 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Educativi Ricreativi e Sportivi)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Educativi Ricreativi e Sportivi</category>
       <category>palestra</category>
@@ -795,6 +849,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496730</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496730</guid>
       <pubDate>Tue, 10 Nov 2026 11:51:43 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Educativi Ricreativi e Sportivi)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Educativi Ricreativi e Sportivi</category>
       <category>palestra comunale</category>
@@ -812,6 +867,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496727</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496727</guid>
       <pubDate>Tue, 10 Nov 2026 11:50:37 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Ufficio di Piano)</dc:creator>
       <category>Determinazione</category>
       <category>Ufficio di Piano</category>
       <category>contributo regionale</category>
@@ -828,6 +884,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496721</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496721</guid>
       <pubDate>Tue, 10 Nov 2026 11:49:31 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Culturali)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Culturali</category>
       <category>contributo Associazione Bottesini</category>
@@ -844,6 +901,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496717</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496717</guid>
       <pubDate>Tue, 10 Nov 2026 11:48:17 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Ufficio Biblioteca)</dc:creator>
       <category>Determinazione</category>
       <category>Ufficio Biblioteca</category>
       <category>abbonamento rivista</category>
@@ -860,6 +918,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496105</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496105</guid>
       <pubDate>Tue, 10 Nov 2026 09:52:14 +0100</pubDate>
+      <dc:creator>Stefania Cervieri (Servizio Personale e Organizzazione)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Personale e Organizzazione</category>
       <category>selezione interna</category>
@@ -877,6 +936,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496072</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496072</guid>
       <pubDate>Tue, 10 Nov 2026 09:51:03 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <description>&lt;p&gt;📄 Ordinanze e provvedimenti 2026/2931 – Ufficio Viabilità&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496072"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496072&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: ISTITUZIONE TEMPORANEA DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN PIAZZA BENVENUTI 11, IL GIORNO 20/11/2026 DALLE ORE 07.30 ALLE ORE 13.30 PER TRASLOCO CON AUTOCARRO E PIATTAFOMRA PLE, CON OCCUPAZIONE DI N. 5 STALLI DI SOSTA NON A PAGAMENTO&lt;/p&gt;</description>
@@ -886,6 +946,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496071</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496071</guid>
       <pubDate>Tue, 10 Nov 2026 09:49:58 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <description>&lt;p&gt;📄 Ordinanze e provvedimenti 2026/2930 – Ufficio Viabilità&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496071"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496071&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: ISTITUZIONE TEMPORANEA DI OBBLIGHI DIVIETI E LIMITAZIONI ALLA CIRCOLAZIONE E AL TRANSITO PEDONALE IN VIA INDIPENDENZA 48 IN DATA 16/11/2026 DALLE ORE 07.30 ALLE ORE 17.30 PER MONTAGGIO PARAPETTI CON PIATTAFORMA PLE E CON CHIUSURA CICLABILE&lt;/p&gt;</description>
@@ -895,6 +956,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496070</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496070</guid>
       <pubDate>Tue, 10 Nov 2026 09:48:52 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <description>&lt;p&gt;📄 Ordinanze e provvedimenti 2026/2929 – Ufficio Viabilità&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496070"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496070&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: ISTITUZIONE TEMPORANEA DI OBBLIGHI DIVIETI E LIMITAZIONI ALLA CIRCOLAZIONE E AL TRANSITO PEDONALE IN VIA VENTI SETTEMBRE 135 IN DATA 04/12/2026 DALLE ORE 12.30 ALLE ORE 16.30 PER PULIZIA CANNA FUMARIA CON PIATTAFORMA PLE.&lt;/p&gt;</description>
@@ -904,6 +966,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496069</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496069</guid>
       <pubDate>Tue, 10 Nov 2026 09:47:49 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <description>&lt;p&gt;📄 Ordinanze e provvedimenti 2026/2928 – Ufficio Viabilità&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496069"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8496069&lt;/a&gt;&lt;br&gt;In pubblicazione dal 10/11/2026 al 25/11/2026&lt;br&gt;Titolo ufficiale: ISTITUZIONE TEMPORANEA DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA MANENTI 1 (FASE 1) IL GIORNO 30/11/2026 DALLE ORE 07.30 ALLE ORE 13.00 E PIAZZA BENVENUTI 11 (FASE 2), IL GIORNO 30/11/2026 DALLE ORE 13.00 ALLE ORE 19.00 PER TRASLOCO CON AUTOCARRO E PIATTAFORMA PLE&lt;/p&gt;</description>
@@ -913,6 +976,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495508</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495508</guid>
       <pubDate>Tue, 10 Nov 2026 01:51:20 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Progettazione Grandi Opere e Direzione Lavori)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Progettazione Grandi Opere e Direzione Lavori</category>
       <category>asfaltatura strade</category>
@@ -929,6 +993,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495504</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495504</guid>
       <pubDate>Tue, 10 Nov 2026 01:50:10 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Manutenzioni e Gestione Patrimonio)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Manutenzioni e Gestione Patrimonio</category>
       <category>manutenzione verde pubblico</category>
@@ -945,6 +1010,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495500</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495500</guid>
       <pubDate>Tue, 10 Nov 2026 01:48:59 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Manutenzioni e Gestione Patrimonio)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Manutenzioni e Gestione Patrimonio</category>
       <category>manutenzione verde pubblico</category>
@@ -961,6 +1027,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495495</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495495</guid>
       <pubDate>Tue, 10 Nov 2026 01:47:49 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Progettazione Grandi Opere e Direzione Lavori)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Progettazione Grandi Opere e Direzione Lavori</category>
       <category>scuola Castelnuovo Crema</category>
@@ -977,6 +1044,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495494</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495494</guid>
       <pubDate>Mon, 09 Nov 2026 19:51:03 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <description>&lt;p&gt;📄 Ordinanze e provvedimenti 2026/2923 – Ufficio Viabilità&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495494"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495494&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: ISTITUZIONE TEMPORANEA DIVIETO DI SOSTA CON RIMOZIONE FORZATA IN VIA OMBRIANELLO 6, IL GIORNO 18/11/2026 DALLE ORE 07.30 ALLE ORE 13.30 PER TRASLOCO CON AUTOCARRO E PIATTAFORMA PLE, CON OCCUPAZIONE DI N. 4 STALLI DI SOSTA NON A PAGAMENTO&lt;/p&gt;</description>
@@ -986,6 +1054,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495214</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495214</guid>
       <pubDate>Mon, 09 Nov 2026 19:49:57 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <description>&lt;p&gt;📄 Ordinanze e provvedimenti 2026/2922 – Ufficio Viabilità&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495214"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495214&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: ISTITUZIONE TEMPORANEA DI OBBLIGHI DIVIETI E LIMITAZIONI ALLA CIRCOLAZIONE STRADALE IN VIA CANOBIO 2 IN DATA 13/11/2026 DALLE ORE 13.00 ALLE ORE 15.00 PER CARICO/SCARICO CON AUTOCARRO.&lt;/p&gt;</description>
@@ -995,6 +1064,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495213</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495213</guid>
       <pubDate>Mon, 09 Nov 2026 19:48:51 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Ordinanze e provvedimenti</category>
       <category>Ufficio Viabilità</category>
       <description>&lt;p&gt;📄 Ordinanze e provvedimenti 2026/2921 – Ufficio Viabilità&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495213"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495213&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: ISTITUZIONE TEMPORANEA DI OBBLIGHI DIVIETI E LIMITAZIONI ALLA CIRCOLAZIONE E AL TRANSITO PEDONALE IN VIA KENNEDY 35 IN DATA 13/11/2026 DALLE ORE 09.00 ALLE ORE 19.00 PER LAVORI IN FACCIATA.&lt;/p&gt;</description>
@@ -1004,6 +1074,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495211</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495211</guid>
       <pubDate>Mon, 09 Nov 2026 19:47:48 +0100</pubDate>
+      <dc:creator>Servizio Pianificazione Territoriale Ambientale</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizio Pianificazione Territoriale Ambientale</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2920 – Servizio Pianificazione Territoriale Ambientale&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495211"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495211&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: CONCESSIONE PATROCINIO A TITOLO GRATUITO ALL’ISTITUTO DI ISTRUZIONE SUPERIORE “STANGA” – CREMONA, CREMA E PANDINO, PER LA XXIX° FESTA DELL’ALBERO INTITOLATA “GLI ALBERI SALVERANNO LA TERRA” – 19 MARZO 2027.&lt;/p&gt;</description>
@@ -1013,6 +1084,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495208</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495208</guid>
       <pubDate>Mon, 09 Nov 2026 17:55:19 +0100</pubDate>
+      <dc:creator>Servizio Personale e Organizzazione</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizio Personale e Organizzazione</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2919 – Servizio Personale e Organizzazione&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495208"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495208&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: ART. 208 DEL DECRETO LEGISLATIVO 30 APRILE 1992, N. 285 – DESTINAZIONE DELLE RISORSE FINANZIATE CON I PROVENTI DELLE SANZIONI AMMINISTRATIVE PECUNIARIE PER VIOLAZIONI AL CODICE DELLA STRADA DESTINATE ALLA REMUNERAZIONE DELLE PRESTAZIONI DI LAVORO STRAORDINARIO DEL PERSONALE DELLA POLIZIA LOCALE. INDIVIDUAZIONE DEGLI OBIETTIVI DI RIFERIMENTO NELL'AMBITO DEL PIANO INTEGRATO DI ATTIVITÀ E ORGANIZZAZIONE (PIAO).&lt;/p&gt;</description>
@@ -1022,6 +1094,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495205</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495205</guid>
       <pubDate>Mon, 09 Nov 2026 17:54:14 +0100</pubDate>
+      <dc:creator>Servizio Pianificazione Territoriale Ambientale</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizio Pianificazione Territoriale Ambientale</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2918 – Servizio Pianificazione Territoriale Ambientale&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495205"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495205&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE TARIFFE DEL SERVIZIO DI TRASPORTO PUBBLICO LOCALE URBANO – ANNO 2027.&lt;/p&gt;</description>
@@ -1031,6 +1104,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495202</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495202</guid>
       <pubDate>Mon, 09 Nov 2026 17:53:09 +0100</pubDate>
+      <dc:creator>Ufficio Biblioteca</dc:creator>
       <category>Delibera di giunta</category>
       <category>Ufficio Biblioteca</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2917 – Ufficio Biblioteca&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495202"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495202&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE PIANO TARIFFARIO BIBLIOTECA COMUNALE CLARA GALLINI DI CREMA - ANNO 2027&lt;/p&gt;</description>
@@ -1040,6 +1114,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495199</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495199</guid>
       <pubDate>Mon, 09 Nov 2026 17:52:03 +0100</pubDate>
+      <dc:creator>Ufficio Museo</dc:creator>
       <category>Delibera di giunta</category>
       <category>Ufficio Museo</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2916 – Ufficio Museo&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495199"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495199&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE PIANO TARIFFARIO DEL MUSEO CIVICO DI CREMA E DEL CREMASCO PER I SERVIZI AGGIUNTIVI DI DIDATTICA MUSEALE, VISITE GUIDATE AL PATRIMONIO, CATALOGHI E PUBBLICAZIONI - ANNO 2027&lt;/p&gt;</description>
@@ -1049,6 +1124,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495196</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495196</guid>
       <pubDate>Mon, 09 Nov 2026 17:50:58 +0100</pubDate>
+      <dc:creator>Servizi Demografici e Statistica</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Demografici e Statistica</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2915 – Servizi Demografici e Statistica&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495196"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495196&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE TARIFFE SERVIZI DEMOGRAFICI ANNO 2027&lt;/p&gt;</description>
@@ -1058,6 +1134,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495193</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495193</guid>
       <pubDate>Mon, 09 Nov 2026 17:49:53 +0100</pubDate>
+      <dc:creator>Servizi Educativi Ricreativi e Sportivi</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Educativi Ricreativi e Sportivi</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2914 – Servizi Educativi Ricreativi e Sportivi&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495193"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495193&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE PIANO TARIFFARIO IMPIANTI SPORTIVI - ANNO 2027&lt;/p&gt;</description>
@@ -1067,6 +1144,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495190</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495190</guid>
       <pubDate>Mon, 09 Nov 2026 17:48:47 +0100</pubDate>
+      <dc:creator>Ufficio Relazioni con il Pubblico</dc:creator>
       <category>Delibera di giunta</category>
       <category>Ufficio Relazioni con il Pubblico</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2913 – Ufficio Relazioni con il Pubblico&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495190"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495190&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE PIANO TARIFFARIO SPAZI, SALE E STRUTTURE PUBBLICHE COMUNALI ANNO 2027&lt;/p&gt;</description>
@@ -1076,6 +1154,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495187</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495187</guid>
       <pubDate>Mon, 09 Nov 2026 17:47:43 +0100</pubDate>
+      <dc:creator>Servizi Sociali</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Sociali</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2912 – Servizi Sociali&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495187"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495187&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE PIANO TARIFFARIO DEI SERVIZI SOCIALI ED EDUCATIVI ANNO 2027&lt;/p&gt;</description>
@@ -1085,6 +1164,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495184</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495184</guid>
       <pubDate>Mon, 09 Nov 2026 15:55:19 +0100</pubDate>
+      <dc:creator>Servizi Sociali</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Sociali</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2911 – Servizi Sociali&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495184"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495184&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE AVVISO PUBBLICO PER L’ASSEGNAZIONE DEGLI ALLOGGI DESTINATI A SERVIZI ABITATIVI PUBBLICI (SAP) DELL'AMBITO TERRITORIALE DI CREMA (ID 13983)&lt;/p&gt;</description>
@@ -1094,6 +1174,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495181</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495181</guid>
       <pubDate>Mon, 09 Nov 2026 15:54:14 +0100</pubDate>
+      <dc:creator>Ufficio Viabilità</dc:creator>
       <category>Delibera di giunta</category>
       <category>Ufficio Viabilità</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2910 – Ufficio Viabilità&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495181"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495181&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE DIRITTI DI SEGRETERIA E IMPORTI PER DETERMINAZIONE DEL DEPOSITO CAUZIONALE A GARANZIA DEL RIPRISTINO DEL SUOLO PER LE AUTORIZZAZIONI/CONCESSIONI DI OCCUPAZIONE SUOLO PUBBLICO/PRIVATO DI USO PUBBLICO TEMPORANEE PER CANTIERI/STECCATI OLTRE CHE PER LE MANOMISSIONI SUOLO – ANNO 2027&lt;/p&gt;</description>
@@ -1103,6 +1184,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495178</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495178</guid>
       <pubDate>Mon, 09 Nov 2026 15:53:09 +0100</pubDate>
+      <dc:creator>Servizi Culturali</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Culturali</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2909 – Servizi Culturali&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495178"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495178&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: UTILIZZO A TITOLO GRATUITO DI SALA PIETRO DA CEMMO DEL CENTRO CULTURALE SANT’AGOSTINO PER LA REALIZZAZIONE DELLA CONFERENZA STAMPA DELLA 20° MARATONINA – CITTÀ DI CREMA 2026 PREVISTA PER LA GIORNATA DI MERCOLEDÌ 4 NOVEMBRE DALLE ORE 16,00 ALLE ORE 18,30.&lt;/p&gt;</description>
@@ -1112,6 +1194,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495175</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495175</guid>
       <pubDate>Mon, 09 Nov 2026 15:52:03 +0100</pubDate>
+      <dc:creator>Ufficio di Piano</dc:creator>
       <category>Delibera di giunta</category>
       <category>Ufficio di Piano</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2908 – Ufficio di Piano&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495175"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495175&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: CO-PROGETTAZIONE DI INTERVENTI E PROGETTI A CONTRASTO DELLA POVERTÀ DELL'EMARGINAZIONE SOCIALE E PROMOZIONE DELL’INCLUSIONE ATTIVA NELL’AMBITO TERRITORIALE DI CREMA, IN APPLICAZIONE DELL'ART. 55 DEL CODICE DEL TERZO SETTORE 2026-2028 (CIG BAA173B457). APPROVAZIONE ALLEGATO 2 "PIANO ECONOMICO PREVENTIVO - QUADRI LOGICI - PERIODO: MARZO - DICEMBRE 2026" E "ADDENDUM ALLEGATO 1" DELL'ACCORDO DI COLLABORAZIONE&lt;/p&gt;</description>
@@ -1121,6 +1204,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495172</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495172</guid>
       <pubDate>Mon, 09 Nov 2026 15:50:58 +0100</pubDate>
+      <dc:creator>Ufficio Patrimonio Immobiliare</dc:creator>
       <category>Delibera di giunta</category>
       <category>Ufficio Patrimonio Immobiliare</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2907 – Ufficio Patrimonio Immobiliare&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495172"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495172&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: AGGIORNAMENTO PIANO DELLE ALIENAZIONI E VALORIZZAZIONI CON RIFERIMENTO TEMPORALE TRIENNALE 2027-2029&lt;/p&gt;</description>
@@ -1130,6 +1214,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495169</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495169</guid>
       <pubDate>Mon, 09 Nov 2026 15:49:52 +0100</pubDate>
+      <dc:creator>Servizi Culturali</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizi Culturali</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2906 – Servizi Culturali&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495169"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495169&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: APPROVAZIONE USO A TITOLO GRATUITO DI CREMARENA PER LE PROVE DI UNO SPETTACOLO A CURA DELL’ASSOCIAZIONE PANTAKEL TEATRO PER SABATO 7 NOVEMBRE 2026.&lt;/p&gt;</description>
@@ -1139,6 +1224,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495166</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495166</guid>
       <pubDate>Mon, 09 Nov 2026 15:48:47 +0100</pubDate>
+      <dc:creator>Servizio Tributi Commercio Catasto Servizi alle Imprese</dc:creator>
       <category>Delibera di giunta</category>
       <category>Servizio Tributi Commercio Catasto Servizi alle Imprese</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2905 – Servizio Tributi Commercio Catasto Servizi alle Imprese&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495166"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495166&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: ACCORDO DI COLLABORAZIONE CON REGIONE LOMBARDIA FINALIZZATO A FINANZIARE LE MISURE STRAORDINARIE DI SOSTEGNO ALLE ATTIVITÀ ECONOMICHE INTERESSATE DALLA CHIUSURA DEL PONTE DI VIA CADORNA AI SENSI DELL’ART. 15, L. 241/1990&lt;/p&gt;</description>
@@ -1148,6 +1234,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495163</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495163</guid>
       <pubDate>Mon, 09 Nov 2026 15:47:43 +0100</pubDate>
+      <dc:creator>Sistemi Informativi</dc:creator>
       <category>Delibera di giunta</category>
       <category>Sistemi Informativi</category>
       <description>&lt;p&gt;📄 Delibera di giunta 2026/2904 – Sistemi Informativi&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495163"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8495163&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 24/11/2026&lt;br&gt;Titolo ufficiale: AFFIDAMENTO SOFTWARE PER GESTIONE CENTRALE OPERATIVA POLIZIA LOCALE CONTRATTO TRIENNALE 2026-2029&lt;/p&gt;</description>
@@ -1157,6 +1244,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494995</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494995</guid>
       <pubDate>Mon, 09 Nov 2026 13:48:53 +0100</pubDate>
+      <dc:creator>Fabio Calderara (Ufficio Economato)</dc:creator>
       <category>Determinazione</category>
       <category>Ufficio Economato</category>
       <category>ascensori</category>
@@ -1173,6 +1261,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494991</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494991</guid>
       <pubDate>Mon, 09 Nov 2026 13:47:47 +0100</pubDate>
+      <dc:creator>Fabio Calderara (Servizio Tributi Commercio Catasto Servizi alle Imprese)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Tributi Commercio Catasto Servizi alle Imprese</category>
       <category>luminarie natalizie</category>
@@ -1189,6 +1278,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494101</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494101</guid>
       <pubDate>Mon, 09 Nov 2026 11:53:16 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Manutenzioni e Gestione Patrimonio)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Manutenzioni e Gestione Patrimonio</category>
       <category>ferramenta</category>
@@ -1205,6 +1295,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494098</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494098</guid>
       <pubDate>Mon, 09 Nov 2026 11:52:10 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Ufficio Viabilità)</dc:creator>
       <category>Determinazione</category>
       <category>Ufficio Viabilità</category>
       <category>deposito cauzionale</category>
@@ -1221,6 +1312,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494095</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494095</guid>
       <pubDate>Mon, 09 Nov 2026 11:51:04 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Ufficio Viabilità)</dc:creator>
       <category>Determinazione</category>
       <category>Ufficio Viabilità</category>
       <category>deposito cauzionale</category>
@@ -1237,6 +1329,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494090</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494090</guid>
       <pubDate>Mon, 09 Nov 2026 11:49:59 +0100</pubDate>
+      <dc:creator>Paolo Vailati (Servizio Progettazione Grandi Opere e Direzione Lavori)</dc:creator>
       <category>Determinazione</category>
       <category>Servizio Progettazione Grandi Opere e Direzione Lavori</category>
       <category>scuola Benvenuti Crema</category>
@@ -1253,6 +1346,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494087</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8494087</guid>
       <pubDate>Mon, 09 Nov 2026 11:48:53 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Culturali)</dc:creator>
       <category>Determinazione</category>
       <category>Servizi Culturali</category>
       <category>teatro</category>
@@ -1269,6 +1363,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8493998</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8493998</guid>
       <pubDate>Mon, 09 Nov 2026 11:47:47 +0100</pubDate>
+      <dc:creator>Dario Boriani (Polizia Locale)</dc:creator>
       <category>Determinazione</category>
       <category>Polizia Locale</category>
       <category>etilometro</category>
@@ -1285,6 +1380,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8493678</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8493678</guid>
       <pubDate>Mon, 09 Nov 2026 09:48:49 +0100</pubDate>
+      <dc:creator>Ufficio Segreteria</dc:creator>
       <category>Cambi nome</category>
       <category>Ufficio Segreteria</category>
       <description>&lt;p&gt;📄 Cambi nome 2026/2895 – Ufficio Segreteria&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8493678"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8493678&lt;/a&gt;&lt;br&gt;In pubblicazione dal 09/11/2026 al 09/12/2026&lt;br&gt;Titolo ufficiale: AVVISO CAMBIO COGNOME MA**** CA****&lt;/p&gt;</description>
@@ -1294,6 +1390,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8493498</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8493498</guid>
       <pubDate>Mon, 09 Nov 2026 09:47:46 +0100</pubDate>
+      <dc:creator>Stefania Cervieri (Sistemi Informativi)</dc:creator>
       <category>Determinazione</category>
       <category>Sistemi Informativi</category>
       <category>PNRR</category>
@@ -1311,6 +1408,7 @@
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8491437</link>
       <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8491437</guid>
       <pubDate>Sun, 08 Nov 2026 19:24:17 +0100</pubDate>
+      <dc:creator>Fabio Calderara (Ufficio Economato)</dc:creator>
       <category>Determinazione</category>
       <category>Ufficio Economato</category>
       <category>carta d'identità provvisoria</category>
