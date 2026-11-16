@@ -90,7 +90,7 @@ def build_message(item):
         parts.append(f"\n{html.escape(clean_desc)}")
 
     if link:
-        parts.append(f"\n🔗 <a href=\"{html.escape(link)}\">RiassuntoAI:Consulta l'atto sull'Albo Pretorio</a>")
+        parts.append(f"\n🔗 <a href=\"{html.escape(link)}\">RiassuntoAI: Consulta l'atto ufficiale sull'Albo Pretorio</a>")
 
     if hashtags:
         parts.append(f"\n{html.escape(hashtags)}")
