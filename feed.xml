@@ -5,9 +5,25 @@
     <link>https://www.facebook.com/albopopcrema</link>
     <description>Gli atti dell'Albo Pretorio del Comune di Crema, riassunti in linguaggio semplice. Riassunti automatici da OpenAI: fa fede solo l'atto originale. Se non hai un RSS reader, segui la pagina Facebook https://www.facebook.com/albopopcrema </description>
     <language>it-it</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:52:09 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:00:17 +0100</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://lucasccrema.github.io/albopop-crema-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Determinazione 2026/3095: Il Comune salda al Crema Rugby la seconda metà del contributo per la gestione del campo di rugby di via Toffetti</title>
+      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8522284</link>
+      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8522284</guid>
+      <pubDate>Mon, 23 Nov 2026 16:00:17 +0100</pubDate>
+      <dc:creator>Francesca Moruzzi (Servizi Educativi Ricreativi e Sportivi)</dc:creator>
+      <category>Determinazione</category>
+      <category>Servizi Educativi Ricreativi e Sportivi</category>
+      <category>campo rugby</category>
+      <category>via Toffetti</category>
+      <category>Crema Rugby</category>
+      <category>contributo sport</category>
+      <category>gestione impianto sportivo</category>
+      <category>convenzione sportiva</category>
+      <description>&lt;p&gt;Per la stagione sportiva 2025-26 il Comune di Crema riconosce all'ASD Crema Rugby Club 13.500,00 euro, IVA compresa, come saldo della quota prevista dalla convenzione per la gestione del campo di via Toffetti 49. Il contributo annuo previsto è di 27.000,00 euro, IVA compresa, da pagare in due rate semestrali: la prima metà era già stata anticipata con una determina precedente. La somma sarà erogata dopo che la società avrà presentato una relazione con le spese effettivamente sostenute, che l'Ufficio Tecnico comunale deve confermare. La convenzione è stata prorogata fino al 31/12/2025 in attesa di individuare un nuovo gestore.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Determinazione 2026/3086: Affidato alla ditta CIB Srl l'inventario dei mobili in cinque appartamenti comunali gestiti da ALER a Crema</title>
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8518776</link>
@@ -1650,23 +1666,6 @@
       <category>sostegno commercianti</category>
       <category>pagamento ristori</category>
       <description>&lt;p&gt;Il Comune ha approvato la terza liquidazione per un totale di 7.600 euro, divisi tra due beneficiari, come aiuto alle attività economiche colpite dalla chiusura del ponte di via Cadorna. Il periodo coperto va dal 1° giugno al 30 settembre 2026. Le somme sono riconosciute in base alle istanze presentate e ai criteri stabiliti dalla delibera di Giunta n. 168 del 3 agosto 2026. Il provvedimento incarica il Servizio Finanziario di emettere i pagamenti.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Ordinanze e provvedimenti 2026/2976: Divieto di sosta temporaneo in Via Canger 9 il 25/11/2026 dalle 7:30 alle 13:30 per un trasloco</title>
-      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498954</link>
-      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8498954</guid>
-      <pubDate>Wed, 11 Nov 2026 11:53:24 +0100</pubDate>
-      <dc:creator>Ufficio Viabilità</dc:creator>
-      <category>Ordinanze e provvedimenti</category>
-      <category>Ufficio Viabilità</category>
-      <category>divieto di sosta</category>
-      <category>rimozione forzata</category>
-      <category>trasloco</category>
-      <category>Via Canger</category>
-      <category>traffico</category>
-      <category>parcheggio</category>
-      <category>viabilità temporanea</category>
-      <description>&lt;p&gt;Dalle 7:30 alle 13:30 del 25/11/2026 in Via Canger 9 è vietato parcheggiare su 3 posti auto non a pagamento, che verranno rimossi con la forza se occupati, per permettere un trasloco con autocarro e piattaforma aerea. Il provvedimento è stato richiesto da Daniele Scappini, titolare della ditta Scada Logistica srl, e la segnaletica va posizionata almeno 48 ore prima. Durante l'occupazione, sono consentiti i mezzi destinati ai lavori, e l'ordinanza è stata emessa con numero 540 e registrata l'11/11/2026.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
