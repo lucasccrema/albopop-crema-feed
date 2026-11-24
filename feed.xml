@@ -5,9 +5,23 @@
     <link>https://www.facebook.com/albopopcrema</link>
     <description>Gli atti dell'Albo Pretorio del Comune di Crema, riassunti in linguaggio semplice. Riassunti automatici da OpenAI: fa fede solo l'atto originale. Se non hai un RSS reader, segui la pagina Facebook https://www.facebook.com/albopopcrema </description>
     <language>it-it</language>
-    <lastBuildDate>Tue, 24 Nov 2026 16:06:12 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:46:58 +0100</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://lucasccrema.github.io/albopop-crema-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Atti di altri enti 2026/3106: Domanda per prelevare acqua da un pozzo a Crema archiviata dalla Provincia di Cremona</title>
+      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8524423</link>
+      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8524423</guid>
+      <pubDate>Tue, 24 Nov 2026 19:46:58 +0100</pubDate>
+      <category>Atti di altri enti</category>
+      <category>concessione acqua</category>
+      <category>pozzo</category>
+      <category>derivazione acqua sotterranea</category>
+      <category>pompa di calore</category>
+      <category>archiviazione domanda</category>
+      <category>osservazioni</category>
+      <description>&lt;p&gt;L'impresa Immobiliare Liberty di Variati Emanuele aveva chiesto nel 2010 la concessione per prelevare acqua sotterranea da un pozzo da realizzare nel mappale 346 del foglio 3 di Crema, da usare per un impianto a pompa di calore. La Provincia non ha ricevuto le integrazioni richieste e l'impresa risulta cancellata dal registro delle imprese dal 4 gennaio 2021, quindi la domanda sarà archiviata. Chi ha interesse può presentare memorie o osservazioni entro 10 giorni dalla pubblicazione dell'avviso.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Determinazione 2026/3112: Affidamento alla ditta Bertoli S.r.l. della manutenzione straordinaria di due ascensori comunali</title>
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8525331</link>
@@ -1659,23 +1673,6 @@
       <category>affidamento diretto</category>
       <category>metodo Montessori</category>
       <description>&lt;p&gt;Il Comune di Crema ha deciso di comprare giochi e materiali per i servizi educativi 0-6 anni (asilo nido e scuola dell'infanzia), per usarli nei progetti pedagogici ispirati al metodo Montessori. La spesa totale è di 4.776,00 euro IVA compresa, e la fornitura viene affidata direttamente alla ditta Gruppo Giodicart Srl, scelta perché specializzata nel settore e ritenuta in grado di rispettare tempi e condizioni, con prezzi giudicati congrui. L'atto è stato firmato dalla dirigente Francesca Moruzzi, che è anche la responsabile del procedimento, ed è stato registrato il 12/11/2026 con numero 1689.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Determinazione 2026/3000: Affidata alla Tipografia Trezzi la stampa di materiali per le attività comunali 2026</title>
-      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8505238</link>
-      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8505238</guid>
-      <pubDate>Fri, 13 Nov 2026 11:49:13 +0100</pubDate>
-      <dc:creator>Francesca Moruzzi (Servizi Culturali)</dc:creator>
-      <category>Determinazione</category>
-      <category>Servizi Culturali</category>
-      <category>stampa</category>
-      <category>tipografia</category>
-      <category>promozione</category>
-      <category>attività comunali</category>
-      <category>affidamento diretto</category>
-      <category>pari opportunità</category>
-      <category>servizi 0-6</category>
-      <description>&lt;p&gt;Il Comune spende 410,00 euro più Iva al 22%, per un totale di 500,20 euro Iva inclusa, per far stampare materiali che promuovono le attività comunali del 2026. Il lavoro è affidato direttamente alla Tipografia Trezzi di Crema, senza una gara, perché la spesa è piccola. La somma sarà pagata entro il 31/12/2026, e la ditta dovrà comunicare il conto corrente dedicato per i pagamenti.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
