@@ -5,9 +5,26 @@
     <link>https://www.facebook.com/albopopcrema</link>
     <description>Gli atti dell'Albo Pretorio del Comune di Crema, riassunti in linguaggio semplice. Riassunti automatici da OpenAI: fa fede solo l'atto originale. Se non hai un RSS reader, segui la pagina Facebook https://www.facebook.com/albopopcrema </description>
     <language>it-it</language>
-    <lastBuildDate>Wed, 25 Nov 2026 10:02:39 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 19:47:48 +0100</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://lucasccrema.github.io/albopop-crema-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Altri avvisi ed atti 2026/3116: Fiera di Santa Lucia 2026: graduatoria per l'assegnazione dei posteggi</title>
+      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8527059</link>
+      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8527059</guid>
+      <pubDate>Wed, 25 Nov 2026 19:47:48 +0100</pubDate>
+      <dc:creator>Ufficio Mercati, Fiere, Posteggi Isolati, Edicole</dc:creator>
+      <category>Altri avvisi ed atti</category>
+      <category>Ufficio Mercati, Fiere, Posteggi Isolati, Edicole</category>
+      <category>fiera</category>
+      <category>santa lucia</category>
+      <category>posteggi</category>
+      <category>graduatoria</category>
+      <category>ambulanti</category>
+      <category>mercato</category>
+      <category>assegnazione</category>
+      <description>&lt;p&gt;Il documento contiene l'elenco dei posteggi assegnati per la Fiera di Santa Lucia 2026, divisi in due graduatorie: una per i posteggi assegnati e una per i posteggi in spunta, cioe' quelli che restano disponibili. Per ogni posteggio sono indicati il numero, il cognome e il nome di chi lo ha ottenuto e la tipologia di vendita (alimentare o non alimentare). Le graduatorie sono state pubblicate dall'Ufficio Mercati, Fiere, Posteggi Isolati, Edicole del Comune.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Determinazione 2026/3115: Il Comune di Crema versa un anticipo di 9.400 euro alla Nuova Virtus Crema per la gestione del Centro Sportivo "R. Olmi"</title>
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8526364</link>
@@ -1652,22 +1669,6 @@
       <category>disabilità</category>
       <category>Casalpusterlengo</category>
       <description>&lt;p&gt;Il Comune di Crema concede un contributo di 737,50 euro per parte della spesa sostenuta da un cittadino per frequentare il centro diurno per disabili "Volo Libero" di Casalpusterlengo (LO), gestito dalla Cooperativa Amicizia, nel periodo dal 1 ottobre al 31 dicembre 2026. Il contributo è un'integrazione a due precedenti determinazioni del 2026 e viene pagato dopo aver ricevuto i documenti che provano la spesa e in base ai giorni di effettiva frequenza. La possibilità di ottenerlo dipende dall'ISEE del richiedente, che non deve superare 20.000 euro. L'atto si basa sulla legge 328/2000, sulla legge regionale 3/2008 e sul regolamento dei servizi sociali dell'ambito cremasco.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Determinazione 2026/3004: Affidato alla ditta CIVIS il servizio di vigilanza per l'ex Tribunale di via Macallè, dal 1° novembre al 31 dicembre 2026</title>
-      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8505338</link>
-      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8505338</guid>
-      <pubDate>Fri, 13 Nov 2026 11:53:39 +0100</pubDate>
-      <dc:creator>Fabio Calderara (Ufficio Economato)</dc:creator>
-      <category>Determinazione</category>
-      <category>Ufficio Economato</category>
-      <category>vigilanza</category>
-      <category>ex tribunale</category>
-      <category>via Macallè</category>
-      <category>sicurezza edificio</category>
-      <category>affidamento servizio</category>
-      <category>CIVIS</category>
-      <description>&lt;p&gt;Il Comune ha affidato direttamente alla società CIVIS S.p.A. il servizio di vigilanza dello stabile ex Tribunale in via Macallè 11/C, per 2 mesi, dal 1° novembre al 31 dicembre 2026. Il costo è di 256,20 euro in totale, IVA compresa (210,00 euro più 46,20 euro di IVA), con una spesa mensile di 105,00 euro più IVA. Il servizio comprende il collegamento dell'allarme con pronto intervento di pattuglia tutti i giorni 24 ore su 24, e un passaggio notturno di controllo dalle 22:00 alle 6:00. L'affidamento si basa sull'art. 50, comma 1, lettera b) del Codice degli appalti, che consente l'affidamento diretto per servizi di importo inferiore a 140.000 euro.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
