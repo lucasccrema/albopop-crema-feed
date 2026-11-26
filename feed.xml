@@ -5,9 +5,26 @@
     <link>https://www.facebook.com/albopopcrema</link>
     <description>Gli atti dell'Albo Pretorio del Comune di Crema, riassunti in linguaggio semplice. Riassunti automatici da OpenAI: fa fede solo l'atto originale. Se non hai un RSS reader, segui la pagina Facebook https://www.facebook.com/albopopcrema </description>
     <language>it-it</language>
-    <lastBuildDate>Thu, 26 Nov 2026 12:03:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:00:22 +0100</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://lucasccrema.github.io/albopop-crema-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Bandi di gara 2026/3129: Asta pubblica per la vendita di un appartamento in via Capergnanica 16/c</title>
+      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8530185</link>
+      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8530185</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:22 +0100</pubDate>
+      <dc:creator>Ufficio Segreteria</dc:creator>
+      <category>Bandi di gara</category>
+      <category>Ufficio Segreteria</category>
+      <category>asta immobiliare</category>
+      <category>vendita appartamento</category>
+      <category>via Capergnanica</category>
+      <category>bando d'asta</category>
+      <category>immobili comunali</category>
+      <category>deposito cauzionale</category>
+      <category>offerta economica</category>
+      <description>&lt;p&gt;Il Comune mette in vendita all'asta un appartamento in via Capergnanica 16/c, con una base d'asta di 127.000,00 euro, al netto di imposte e spese. Per partecipare serve un deposito cauzionale di 12.700,00 euro e un sopralluogo obbligatorio da richiedere entro le ore 12.00 del 16.12.2026. Le offerte vanno presentate entro le ore 12.00 del 18.01.2027, e l'apertura pubblica è fissata per il 19.01.2027 alle ore 9.30 presso la Sala del Consiglio Comunale. La vendita è disposta con Determinazione Dirigenziale n. 1615 del 29.10.2026.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Ordinanze e provvedimenti 2026/3128: Divieti di sosta e di transito in zona Ombriano per la festa di Natale del 29 novembre 2026</title>
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8529960</link>
@@ -1653,22 +1670,6 @@
       <category>SP 235</category>
       <category>bilancio comunale</category>
       <description>&lt;p&gt;La Regione Lombardia ha concesso al Comune di Crema un contributo complessivo di 1.550.000 euro per completare la pista ciclabile Crema-Lodi lungo la SP 235, nel tratto della Provincia di Cremona, con il Comune di Bagnolo Cremasco. Di questa somma, 465.000 euro sono il primo acconto del 30%, già trasferito al Comune. Con questa determinazione il Comune registra ufficialmente questa entrata nel proprio bilancio. Il contributo regionale è ripartito tra il 2026 (930.000 euro) e il 2027 (620.000 euro).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Determinazione 2026/3015: Il Comune di Crema registra in bilancio 2026 una parte dei fondi PNRR per l'autonomia degli anziani non autosufficienti.</title>
-      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8508068</link>
-      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8508068</guid>
-      <pubDate>Mon, 16 Nov 2026 13:52:19 +0100</pubDate>
-      <dc:creator>Francesca Moruzzi (Ufficio di Piano)</dc:creator>
-      <category>Determinazione</category>
-      <category>Ufficio di Piano</category>
-      <category>fondi PNRR</category>
-      <category>anziani non autosufficienti</category>
-      <category>trasferimento statale</category>
-      <category>bilancio 2026</category>
-      <category>Ufficio di Piano</category>
-      <category>contributo ministeriale</category>
-      <description>&lt;p&gt;Il secondo trasferimento intermedio approvato e confermato per questo progetto è di 420.000,00 euro. Con questo atto il Comune crea un sub-accertamento per registrare in bilancio 2026 questa somma, la cui riscossione è prevista entro il 31/12/2026. Il progetto è finanziato dal PNRR, Missione 5, Componente 2, Linea 1.1.2. L'atto si basa sul principio contabile della contabilità finanziaria e sul Bilancio di Previsione 2026-2028.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
