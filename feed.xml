@@ -5,9 +5,19 @@
     <link>https://www.facebook.com/albopopcrema</link>
     <description>Gli atti dell'Albo Pretorio del Comune di Crema, riassunti in linguaggio semplice. Riassunti automatici da OpenAI: fa fede solo l'atto originale. Se non hai un RSS reader, segui la pagina Facebook https://www.facebook.com/albopopcrema </description>
     <language>it-it</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:00:22 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:00:21 +0100</lastBuildDate>
     <ttl>30</ttl>
     <atom:link href="https://lucasccrema.github.io/albopop-crema-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Atti di altri enti 2026/3135: VARIAZIONI COLTURALI AGEA - ANNO 2026 - RICHIESTA PUBBLICIZZAZIONE ELENCHI DEL COMUNE DI CREMA (D142) [D.L. 262/2006 E S.M.I.]</title>
+      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8531091</link>
+      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8531091</guid>
+      <pubDate>Thu, 26 Nov 2026 18:00:21 +0100</pubDate>
+      <dc:creator>Ufficio Archivio e Protocollo</dc:creator>
+      <category>Atti di altri enti</category>
+      <category>Ufficio Archivio e Protocollo</category>
+      <description>&lt;p&gt;📄 Atti di altri enti 2026/3135 – Ufficio Archivio e Protocollo&lt;/p&gt;&lt;p&gt;🔗 Atto completo sull'albo: &lt;a href="https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8531091"&gt;https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8531091&lt;/a&gt;&lt;br&gt;In pubblicazione dal 26/11/2026 al 15/02/2027&lt;br&gt;Titolo ufficiale: VARIAZIONI COLTURALI AGEA - ANNO 2026 - RICHIESTA PUBBLICIZZAZIONE ELENCHI DEL COMUNE DI CREMA (D142) [D.L. 262/2006 E S.M.I.]&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bandi di gara 2026/3129: Asta pubblica per la vendita di un appartamento in via Capergnanica 16/c</title>
       <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8530185</link>
@@ -1653,23 +1663,6 @@
       <category>affidamento diretto</category>
       <category>bilancio 2026</category>
       <description>&lt;p&gt;Il Comune rimborsa 1.683,60 euro, IVA compresa, alla società Elettrotecnica Nol-Gar S.n.c. di Cremona, per la partecipazione del suo tecnico, l'ingegnere Stefano Nolli, alle attività della Commissione comunale di vigilanza sui locali di pubblico spettacolo. Il rimborso è riferito alla verifica preliminare della documentazione e al sopralluogo tecnico per la manifestazione "Festa de l'Unità del Cremasco 2026". L'affidamento è diretto, previsto dall'art. 50 del D.Lgs. 36/2023 perché la spesa è inferiore a 140.000 euro, e la somma è impegnata sul bilancio 2026, con pagamento previsto entro il 31/12/2026.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Determinazione 2026/3016: Il Comune di Crema registra l'arrivo di 465.000 euro dalla Regione Lombardia come primo acconto per la pista ciclabile Crema-Lodi.</title>
-      <link>https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8508073</link>
-      <guid isPermaLink="true">https://crema.trasparenza-valutazione-merito.it/web/trasparenza/papca-ap/-/papca/display/8508073</guid>
-      <pubDate>Mon, 16 Nov 2026 13:53:25 +0100</pubDate>
-      <dc:creator>Paolo Vailati (Ufficio Patrimonio Immobiliare)</dc:creator>
-      <category>Determinazione</category>
-      <category>Ufficio Patrimonio Immobiliare</category>
-      <category>pista ciclabile</category>
-      <category>Crema-Lodi</category>
-      <category>contributo Regione Lombardia</category>
-      <category>acconto</category>
-      <category>mobilità ciclistica</category>
-      <category>SP 235</category>
-      <category>bilancio comunale</category>
-      <description>&lt;p&gt;La Regione Lombardia ha concesso al Comune di Crema un contributo complessivo di 1.550.000 euro per completare la pista ciclabile Crema-Lodi lungo la SP 235, nel tratto della Provincia di Cremona, con il Comune di Bagnolo Cremasco. Di questa somma, 465.000 euro sono il primo acconto del 30%, già trasferito al Comune. Con questa determinazione il Comune registra ufficialmente questa entrata nel proprio bilancio. Il contributo regionale è ripartito tra il 2026 (930.000 euro) e il 2027 (620.000 euro).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
